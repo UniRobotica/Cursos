@@ -138,6 +138,7 @@ Podemos a partir desse modelo gerar o seguinte event log:
 | 235  | decide (e)                         | 19-8-2014:9.36 | Sue      |
 | 235  | accept request (g)                 | 19-8-2014.9.48 | Mary     |
 
+
 #### **Replay / Aprimoramento** 
 
 ![replay](img/replay.png)
